@@ -1,4 +1,4 @@
-# EDIT--css
+# Projeto CSS curso em vídeo
  my first css project
  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cabin:wght@500&display=swap');
